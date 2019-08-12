@@ -1,9 +1,3 @@
-// WHERE WE LOAD OUT STUFF FROM -- LOADING ZONE *************
-// **********************************************************
-// NEVER TOUCH
-
-
-
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';

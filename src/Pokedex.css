@@ -1,0 +1,10 @@
+.Pokedex{
+    text-align:center;
+}
+.divider{
+    height:20px;
+    width:80vw;
+    margin:20px auto 20px auto;
+    clear:both;
+    display:block;
+}
